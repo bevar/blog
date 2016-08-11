@@ -16,7 +16,7 @@ def foo():
 def bar():
     print('I am bar')
     
-foo.func = bar
+foo.bar = bar
 foo.bar()
 ```
 
