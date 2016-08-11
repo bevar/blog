@@ -15,3 +15,4 @@
 1. [关于递归的思考](https://github.com/pylego/blog/blob/master/posts/2016-07-07-thinking-in-recursion.md)
 2. [vim模板插件vim-template的使用](https://github.com/pylego/blog/blob/master/posts/2016-07-21-vim-plugin-vim-template.md)
 3. [Ubuntu 16网卡命名enp3s0说明](https://github.com/pylego/blog/blob/master/posts/2016-07-26-enp3s0.md)
+4. [Python Enclosing作用域、装饰器话聊](https://github.com/pylego/blog/blob/master/posts/2016-08-11-python-decorator-part-0.md)
