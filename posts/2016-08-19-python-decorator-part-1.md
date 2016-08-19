@@ -14,7 +14,7 @@ def foo():
 
 # 相当于: foo = deco(foo)
 # 那么
-@new_deco(*args, **kwargs):
+@new_deco(*args, **kwargs)
 def bar():
     pass
     
