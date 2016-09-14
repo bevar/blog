@@ -1,3 +1,8 @@
+Title: Python enclosing decorator part 0
+Date: 2016-08-11 00:00
+Category: Python
+
+
 # Python Enclosing作用域、闭包、装饰器话聊上篇
 
 

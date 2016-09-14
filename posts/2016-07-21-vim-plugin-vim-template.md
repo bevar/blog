@@ -1,4 +1,8 @@
-﻿# vim模板插件vim-template的使用
+﻿Title: vim plugin vim template
+Date: 2016-07-21 00:00
+Category: 软件
+
+# vim模板插件vim-template的使用
 
 之前使用IDE编程，模板是最基本的功能，现在切换到vim，用惯了模板的我，对于每次写代码都来上
 ```
