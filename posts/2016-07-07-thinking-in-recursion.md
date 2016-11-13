@@ -1,6 +1,8 @@
 Title: Thinking in recursion
 Date: 2016-07-07 00:00
 Category: 算法
+Slug: thinking-in-recursion
+Summary: 关于递归的一些不成熟的思考
 
 # 关于递归的思考
 

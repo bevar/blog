@@ -1,6 +1,8 @@
 ﻿Title: vim plugin vim template
 Date: 2016-07-21 00:00
 Category: 软件
+Slug: vim-plugin-vim-template
+Summary: vim的模板插件的安装配置指南
 
 # vim模板插件vim-template的使用
 
